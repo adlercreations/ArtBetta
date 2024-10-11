@@ -1,0 +1,8 @@
+# Ignore node_modules and build files in frontend
+frontend/node_modules/
+frontend/android/
+frontend/ios/
+
+# Ignore Python virtual environment in backend
+backend/venv/
+node_modules
